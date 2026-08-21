@@ -9,10 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "latest",
-    "vite": "latest",
-    "react": "latest",
-    "react-dom": "latest"
-  },
-  "devDependencies": {}
+    "lucide-react": "...",
+    "react": "...",
+    "react-dom": "...",
+    "react-icons": "...",
+    "socket.io-client": "^4.8.1"
+  }
 }
